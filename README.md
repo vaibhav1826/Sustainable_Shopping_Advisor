@@ -19,6 +19,13 @@
 - **API Used:**  
   - 🔎 **SerpAPI** – Fetches product data, which is then filtered using sustainability tags.  
 
+
+## 🖥️ Demo Page
+
+Here’s a sneak peek of the platform in action:
+
+![Sustainable Shopping Advisor Preview](Screenshot_1.png)
+
 ## 🛠️ Installation & Setup
 
 Follow these steps to run the project locally using XAMPP:
